@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UtF-8"?>
+<FormDetails>
+                   <Details Scholarrollno="2001">
+                                <Firstname>Satya</Firstname>
+                                <Lastname>Kotipalli</Lastname>
+                                <course>PHD</course>
+                                <RegistrationDate>10-2-2019</RegistrationDate>
+                                <MobileNumber>9100202136</MobileNumber>
+                                <ResearchTopic>genetic</ResearchTopic>
+                                <GuideName>Rajiv Rajanath</GuideName>
+                                <PermanentAddress>Kolkotta</PermanentAddress>
+                   </Details>
+                   <Details Scholarrollno="2002">
+                                <Firstname>satish</Firstname>
+                                <Lastname>Kanda</Lastname>
+                                <course>Mphil</course>
+                                <RegistrationDate>11-3-2019</RegistrationDate>
+                                <MobileNumber>9102156136</MobileNumber>
+                                <ResearchTopic>DISEASE</ResearchTopic>
+                                <GuideName>Vijay Mathur</GuideName>
+                                <PermanentAddress>Pune</PermanentAddress>
+                   </Details>
+                   <Details Scholarrollno="2003">
+                                <Firstname>Ramya</Firstname>
+                                <Lastname>Kantipudi</Lastname>
+                                <course>PHD</course>
+                                <RegistrationDate>15-5-2019</RegistrationDate>
+                                <MobileNumber>9100202789</MobileNumber>
+                                <ResearchTopic>agriculture</ResearchTopic>
+                                <GuideName>Vinod kumar</GuideName>
+                                <PermanentAddress>Mumbai</PermanentAddress>
+                   </Details>
+</FormDetails>
+                                 
